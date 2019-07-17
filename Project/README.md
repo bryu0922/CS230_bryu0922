@@ -94,3 +94,5 @@ python ./test.py [Test set directory] [Model .h5 file path]
 The usage is identical to the train.py in which the file directory for the test set data and the model file name (e.g. myModel.h5) must be specified.
 
 [LAMMPS]: https://lammps.sandia.gov/
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbryu0922%2FCS230_bryu0922%2Ftree%2Fmaster%2FProject)
